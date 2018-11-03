@@ -13,10 +13,10 @@ the code uses emoji dataset to try clustering images
 ## here are some funny examples: 
 
 ### Flags
-![alt text](https://raw.githubusercontent.com/vovalive/NN_see_image/blob/master/images/flags.png)
+![alt text](https://github.com/vovalive/NN_see_image/blob/master/images/flags.png)
 
 ### Females
-![alt text](https://raw.githubusercontent.com/vovalive/NN_see_image/blob/master/images/female.png)
+![alt text](https://github.com/vovalive/NN_see_image/blob/master/images/female.png)
 
 ### Males 
-![alt text](https://raw.githubusercontent.com/vovalive/NN_see_image/blob/master/images/male.png)
+![alt text](https://github.com/vovalive/NN_see_image/blob/master/images/male.png)
