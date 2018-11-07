@@ -1,4 +1,6 @@
 # NN_see_image
+
+based on https://github.com/ml4a/ml4a-guides/blob/master/notebooks/image-tsne.ipynb
 keras application to cluster images using PCA, tSNE and UMAP
 
 the code uses emoji dataset to try clustering images
